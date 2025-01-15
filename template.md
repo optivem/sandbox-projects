@@ -5,11 +5,13 @@ Setup
 ✅ Sandbox Project Setup
 
 Pipeline	
+
 ✅ Commit Stage
 ✅ Release Stage
 ✅ Acceptance Stage
 
 Smoke Tests	& E2E Tests
+
 ✅ E2E Testable Architecture
 ✅ Smoke Tests
 ✅ E2E Tests
