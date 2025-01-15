@@ -2,7 +2,7 @@
 
 Setup	
 
-✅ (Sandbox Project Setup)[https://journal.optivem.com/p/legacy-code-sandbox-project]
+✅ [Sandbox Project Setup](https://journal.optivem.com/p/legacy-code-sandbox-project)
 
 Pipeline	
 
