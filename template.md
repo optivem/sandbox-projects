@@ -6,21 +6,23 @@ Setup
 
 Pipeline	
 
-✅ Commit Stage
+✅ [Commit Stage](https://journal.optivem.com/p/commit-stage-in-legacy-code)
 
-✅ Release Stage
+✅ [Release Stage](https://journal.optivem.com/p/release-stage-in-legacy-code)
 
-✅ Acceptance Stage
+✅ [Acceptance Stage](https://journal.optivem.com/p/acceptance-stage-in-legacy-code)
 
-Smoke Tests	& E2E Tests
+Smoke Tests
 
-✅ E2E Testable Architecture
+✅ [E2E Testable Architecture](https://journal.optivem.com/p/e2e-testable-architecture-in-legacy-code)
 
-✅ Smoke Tests
+✅ [Smoke Tests](https://journal.optivem.com/p/smoke-tests-in-legacy-code)
 
-✅ E2E Tests
+E2E Tests
 
-✅ Maintainable E2E Tests
+✅ [E2E Tests](https://journal.optivem.com/p/e2e-tests-in-legacy-code)
+
+✅ [Maintainable E2E Tests](https://journal.optivem.com/p/maintainable-e2e-tests-in-legacy-code)
 
 Acceptance Tests	
 
